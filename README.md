@@ -4,5 +4,4 @@
 
 - `npm install`
 - `npm run start`
-- Inspect traces at http://localhost:16686
 
