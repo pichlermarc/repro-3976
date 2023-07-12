@@ -1,4 +1,4 @@
-## Reproducer for [#3933](https://github.com/open-telemetry/opentelemetry-js/issues/3933)
+## Reproducer for [#3976](https://github.com/open-telemetry/opentelemetry-js/issues/3976)
 
 ### How to run
 
