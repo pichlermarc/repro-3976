@@ -1,0 +1,18 @@
+{
+  "name": "3976",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opentelemetry/api": "^1.4.1",
+    "@opentelemetry/exporter-metrics-otlp-proto": "^0.41.0",
+    "@opentelemetry/resources": "^1.15.0",
+    "@opentelemetry/sdk-metrics": "^1.15.0"
+  }
+}
